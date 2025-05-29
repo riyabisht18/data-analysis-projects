@@ -33,9 +33,6 @@ This project explores customer demographics to identify patterns in bike purchas
   - Data Cleaning Functions
   - Charts & Dashboards
 
-## 📁 Files
 
-- `Bike_Buyers_Analysis.xlsx` – Cleaned data with dashboards
-- `README.md` – Project summary and explanation
 
 
